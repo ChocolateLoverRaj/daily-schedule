@@ -1,0 +1,8 @@
+{
+  "name": "Daily Schedule",
+  "description": "See when the current class ends and what the next class is",
+  "uuid": "daily-schedule@chocolateloverraj.github.io",
+  "shell-version": [
+    "44"
+  ]
+}
